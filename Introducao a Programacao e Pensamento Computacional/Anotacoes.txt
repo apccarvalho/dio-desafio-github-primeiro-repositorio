@@ -1,0 +1,15 @@
+No curso Introdução a Programação e Pensamento Computacional nos foi apresentado um pouco da história da computação e da programação.
+Dentro do que os foi apresentado destacam-se:
+- Conceitos do que é lógica;
+- Abstração;
+- Algorítimos;
+- Técnicas de lógica de programação;
+- Tipologia e variáveis;
+- Estruturas condicionais e operadores;
+- Estruturas de repetição;
+- Vetores e Matrizes;
+- Funções;
+
+Instrutora: Juliana Mascarenhas.
+Avaliação do curso: Ótimo.
+Auto avaliação: Excelente.

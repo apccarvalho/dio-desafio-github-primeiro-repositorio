@@ -1,0 +1,7 @@
+No curso Introdução ao Git e ao GitHub, vimos os conceitos básicos sobre a utilização do Git.
+Vimos como é o Funcionamento do Git por baixo dos panos, uma introdução aos objetos e definições de termos, como o que são os commits e chaves SSH.
+Aprendemos também na prática como criar um repositório, navegar utilizando o Git Bash, e fazer utilizar os primeiros comandos.
+
+Instrutor: Otávio Reis.
+Avaliação do curso: Excelente
+Auto avaliação: Ótimo.
